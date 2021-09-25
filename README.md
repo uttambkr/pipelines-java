@@ -1,3 +1,4 @@
+[![Build Status](https://uttambkr.visualstudio.com/test_project/_apis/build/status/uttambkr.pipelines-java?branchName=master)](https://uttambkr.visualstudio.com/test_project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
